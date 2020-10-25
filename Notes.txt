@@ -1,4 +1,4 @@
-Number
+Alphabets
 1
 2
 3
@@ -6,9 +6,17 @@ Number
 5
 
 
-Alphabets
+Number
 a
 b
 c
 d
 e
+
+
+Alphanumeric
+a1
+b1
+c2
+v3
+n3
